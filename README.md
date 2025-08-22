@@ -39,9 +39,9 @@ ________________________________________
 3.	What are the leading sales by publisher?
 4.	How many titles have been published by year, genre, platform, and region?
 5.	How are game counts distributed across publishers and regions?
-6.	What are the Top 10 best-selling games worldwide? Have any genres or games increased or decreased in popularity over time?
+6.	What are the Top 10 best-selling games worldwide? 
 7.	How do percentage shares differ by genre, publisher, and platform across regions?
-8.	Are certain types of games more popular than others?
+8.	Are certain types of games more popular than others? Have any genres or games increased or decreased in popularity over time?
 9.	Which publishers are likely to be the main competitors in specific markets?
 ________________________________________
 ## ANALYSIS, FINDINGS, RECOMMENDATIONS & LIMITATIONS
