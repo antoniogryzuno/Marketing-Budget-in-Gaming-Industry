@@ -44,7 +44,6 @@ ________________________________________
 8.	Are certain types of games more popular than others?
 9.	Which publishers are likely to be the main competitors in specific markets?
 10.	Have any genres or games increased or decreased in popularity over time?
-11.	How have sales trends varied across geographic regions over time?
 ________________________________________
 ## ANALYSIS, FINDINGS, RECOMMENDATIONS & LIMITATIONS
 All analysis, insights, and recommendations are documented in the dataset and summarized in the PowerPoint presentation.
