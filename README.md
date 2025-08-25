@@ -47,10 +47,6 @@ ________________________________________
 ## ANALYSIS, FINDINGS, RECOMMENDATIONS & LIMITATIONS
 All analysis, insights, and recommendations are documented in the dataset and summarized in the PowerPoint presentation.
 ________________________________________
-## PROJECT FOLDER STRUCTURE
-•	01 DATA
-•	02 PRESENTATION
-________________________________________
 ## NOTE
 The analysis was conducted for educational purposes using publicly available data and fully adheres to privacy policy regulations.
 
