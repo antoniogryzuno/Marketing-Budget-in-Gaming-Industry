@@ -50,7 +50,6 @@ ________________________________________
 ## PROJECT FOLDER STRUCTURE
 •	01 DATA
 •	02 PRESENTATION
-•	03 VISUALS
 ________________________________________
 ## NOTE
 The analysis was conducted for educational purposes using publicly available data and fully adheres to privacy policy regulations.
